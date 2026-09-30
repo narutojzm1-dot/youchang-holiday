@@ -4,6 +4,8 @@
 
 没有目标。坐着、喂、溜。脸是它们自己的事，空页不会告诉你。
 
+线上：[https://narutojzm1-dot.github.io/youchang-holiday/](https://narutojzm1-dot.github.io/youchang-holiday/)
+
 ```bash
 npm install
 npm run dev

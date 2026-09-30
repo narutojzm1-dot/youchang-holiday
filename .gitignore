@@ -8,3 +8,4 @@ screenshots
 .env
 .env.*
 dist
+gh-pages
